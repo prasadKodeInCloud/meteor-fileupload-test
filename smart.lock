@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "require": {}
+    },
+    "packages": {
+      "require": {
+        "git": "https://github.com/tomconnors/meteor-require.git",
+        "tag": "v0.1.0",
+        "commit": "b9c5a87e9f92019cca882234086b7d32719f67e2"
+      }
+    }
+  }
+}
